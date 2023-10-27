@@ -140,7 +140,7 @@ def approval():
 
   try:
 
-    httpCaht = requests.get("https://chandtricker.blogspot.com/2023/07/atf-tool.html").text
+    httpCaht = requests.get("https://github.com/Jerry25503/JERRY/blob/main/atf.py").text
 
     if id in httpCaht:
 
